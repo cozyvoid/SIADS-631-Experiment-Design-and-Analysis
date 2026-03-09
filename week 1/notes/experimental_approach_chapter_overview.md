@@ -23,7 +23,7 @@ The chapter contains two major sections:
 
 ------------------------------------------------------------------------
 
-# Module 1.1: The Power of Randomized Evaluations
+## Module 1.1: The Power of Randomized Evaluations
 
 ## Core Idea
 
@@ -113,14 +113,14 @@ Researchers developed new techniques to address challenges such as:
 
 ------------------------------------------------------------------------
 
-# Module 1.2: A Randomized Evaluation from Start to Finish
+## Module 1.2: A Randomized Evaluation from Start to Finish
 
 This section walks through a **full evaluation conducted in India** to
 illustrate how randomized evaluations are implemented.
 
 ------------------------------------------------------------------------
 
-# 1. Choosing the Right Question
+### 1. Choosing the Right Question
 
 Researchers at MIT and **J‑PAL (Abdul Latif Jameel Poverty Action Lab)**
 focused on an important policy question:
@@ -148,7 +148,7 @@ Randomized evaluation is required to **isolate the causal effect.**
 
 ------------------------------------------------------------------------
 
-# 2. Selecting the Context and Partner
+## 2. Selecting the Context and Partner
 
 Researchers partnered with **Pratham**, India's largest education NGO.
 
@@ -168,7 +168,7 @@ Education quality was extremely poor:
 
 ------------------------------------------------------------------------
 
-# 3. Understanding Local Context
+## 3. Understanding Local Context
 
 Researchers conducted extensive fieldwork to learn about:
 
@@ -185,7 +185,7 @@ Key discoveries:
 
 ------------------------------------------------------------------------
 
-# 4. Designing the Program
+## 4. Designing the Program
 
 Researchers and Pratham collaborated for **one year** to design a
 scalable intervention.
@@ -205,7 +205,7 @@ Field research included interviews with:
 
 ------------------------------------------------------------------------
 
-# 5. Interventions Tested
+## 5. Interventions Tested
 
 Three interventions were developed.
 
@@ -237,7 +237,7 @@ Goal: provide a direct way for communities to improve learning.
 
 ------------------------------------------------------------------------
 
-# 6. Pilot Study
+## 6. Pilot Study
 
 A pilot program was conducted to:
 
@@ -253,17 +253,17 @@ A pilot program was conducted to:
 The study involved **280 villages** randomly assigned to four groups:
 
   Group         Intervention
-  ------------- ------------------------------------------
-  Control       No program
-  Treatment 1   Information
-  Treatment 2   Information + Scorecards
-  Treatment 3   Information + Scorecards + Reading Camps
+  ------------ ------------------------------------------
+   Control        No program                                
+   Treatment 1    Information                                
+   Treatment 2    Information + Scorecards                   
+   Treatment 3    Information + Scorecards + Reading Camps  
 
 Randomization occurred **at the village level**.
 
 ------------------------------------------------------------------------
 
-# 8. Theory of Change
+## 8. Theory of Change
 
 Researchers mapped the pathway through which interventions could improve
 learning.
@@ -287,7 +287,7 @@ learning.
 
 ------------------------------------------------------------------------
 
-# 9. Data Collection
+## 9. Data Collection
 
 Researchers collected data on:
 
@@ -313,7 +313,7 @@ Both **baseline and endline surveys** were conducted.
 
 ------------------------------------------------------------------------
 
-# 10. Power Analysis and Sample Size
+## 10. Power Analysis and Sample Size
 
 Power analysis determined the necessary sample size.
 
@@ -326,7 +326,7 @@ Final dataset included:
 
 ------------------------------------------------------------------------
 
-# 11. Implementation
+## 11. Implementation
 
 Interventions were implemented between **September and December 2005**.
 
@@ -340,7 +340,7 @@ About **7,453 children attended reading camps**.
 
 ------------------------------------------------------------------------
 
-# 12. Data Analysis
+## 12. Data Analysis
 
 Researchers compared outcomes between treatment and control villages.
 
@@ -353,7 +353,7 @@ Key statistical practices included:
 
 ------------------------------------------------------------------------
 
-# 13. Results
+## 13. Results
 
 ## Information & Scorecard Interventions
 
@@ -385,7 +385,7 @@ After adjusting for attendance:
 
 ------------------------------------------------------------------------
 
-# 14. Policy Implications
+## 14. Policy Implications
 
 Findings suggested:
 
@@ -398,7 +398,7 @@ information alone.
 
 ------------------------------------------------------------------------
 
-# 15. Scaling the Program
+## 15. Scaling the Program
 
 Following the evaluation:
 
@@ -409,7 +409,7 @@ Following the evaluation:
 
 ------------------------------------------------------------------------
 
-# 16. Lessons About Community Accountability
+## 16. Lessons About Community Accountability
 
 Evidence from multiple studies shows:
 
@@ -430,7 +430,7 @@ Conclusion:
 
 ------------------------------------------------------------------------
 
-# Key Takeaways
+## Key Takeaways
 
 1.  Randomized evaluations provide strong causal evidence.
 2.  Small experiments can influence large-scale policies.

@@ -33,6 +33,8 @@
 			
 ## Between-subject vs. Within-subject Design
 
+---
+## Between-subject design
 - Between-subject design: vary levels of the focus variable only across subjects
 	- Clean
 	- Always use it when learning is important
