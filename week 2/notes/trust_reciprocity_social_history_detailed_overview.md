@@ -31,13 +31,13 @@ It also asks whether prior information about others’ past behavior—called **
 The study uses a two-person sequential exchange game:
 
 - A subject in **Room A** receives **$10**.
-- The Room A subject can send any amount \(M_A\in\{0,1,2,\dots,10\}\) to an anonymous counterpart in **Room B**.
+- The Room A subject can send any amount $$(M_A\in\{0,1,2,\dots,10\})$$ to an anonymous counterpart in **Room B**.
 - Any amount sent is **tripled** by the experimenter, so the Room B subject receives **3M_A**.
-- The Room B subject then decides how much to return, denoted \(M_B\), from the tripled amount.
+- The Room B subject then decides how much to return, denoted $$(M_B)$$, from the tripled amount.
 
 ### Payoff functions
-- Room A payoff: \(P_A = 10 - M_A + M_B\)
-- Room B payoff: \(P_B = 3M_A - M_B\)
+- Room A payoff: $$(P_A = 10 - M_A + M_B)$$
+- Room B payoff: $$(P_B = 3M_A - M_B) $$
 
 Under strict self-interest and backward induction:
 
@@ -46,8 +46,8 @@ Under strict self-interest and backward induction:
 
 So the **subgame-perfect equilibrium** is:
 
-- \(M_A = 0\)
-- \(M_B = 0\)
+- $$(M_A = 0)$$
+- $$(M_B = 0)$$
 
 This is the benchmark prediction the experiment tests.
 
@@ -343,7 +343,7 @@ The paper includes detailed subject instructions for the trust experiment. These
 - and social-history information, when present, was standardized.
 
 ### 9.2 Appendix B: Ordered-Pair Data
-The final appendix provides ordered pair data \((\text{investment}, \text{payback})\) from sessions under:
+The final appendix provides ordered pair data $$((\text{investment}, \text{payback}))$$ from sessions under:
 
 - no history,
 - and social history.
@@ -376,7 +376,7 @@ A nonparametric measure used to test whether higher sent amounts are associated 
 
 ## Most Important Empirical Findings to Remember
 
-1. **The equilibrium prediction failed**: people did not mostly choose \((0,0)\).
+1. **The equilibrium prediction failed**: people did not mostly choose $$(0,0)$$.
 2. **Trust was common**: almost all Room A subjects sent something.
 3. **Reciprocity was common**: many Room B subjects returned money.
 4. **Trust and return were positively related**.
