@@ -78,11 +78,11 @@ A major part of the article is a gallery of generated patterns from several laye
 
 ### Layers highlighted
 The article shows examples from:
-- **Layer 7:** Conv2d(64, 128) ![img_6.png](img_6.png)
-- **Layer 14:** Conv2d(128, 256) ![img_2.png](img_2.png)
-- **Layer 20:** Conv2d(256, 256) ![img_3.png](img_3.png)
-- **Layer 30:** Conv2d(512, 512) ![img_4.png](img_4.png)
-- **Layer 40:** Conv2d(512, 512), near the top of the convolutional stack ![img_5.png](img_5.png)
+- **Layer 7:** Conv2d(64, 128) ![img_6.png](../images/img_6.png)
+- **Layer 14:** Conv2d(128, 256) ![img_2.png](../images/img_2.png)
+- **Layer 20:** Conv2d(256, 256) ![img_3.png](../images/img_3.png)
+- **Layer 30:** Conv2d(512, 512) ![img_4.png](../images/img_4.png)
+- **Layer 40:** Conv2d(512, 512), near the top of the convolutional stack ![img_5.png](../images/img_5.png)
 
 ### Main pattern across depth
 The author asks the reader to notice that **pattern complexity increases with depth**.
